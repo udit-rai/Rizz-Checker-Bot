@@ -22,7 +22,7 @@ The project was built using Python and leverages AI-driven text generation. The 
 
 ## **Design Choices and Considerations**
 
-During development, I debated several design decisions. One major consideration was whether to integrate an external AI API (like OpenAI) for message generation or to rely on local logic and templates. I ultimately decided on a hybrid approach, using local algorithms for basic message structure and optional AI APIs for enhanced creativity. This choice balances learning about text processing with the flexibility of modern AI capabilities.
+During development, I debated several design decisions. One major consideration was whether to integrate an external AI API (like Gemini) for message generation or to rely on local logic and templates. I ultimately decided on a hybrid approach, using local algorithms for basic message structure and optional AI APIs for enhanced creativity. This choice balances learning about text processing with the flexibility of modern AI capabilities.
 
 Another consideration was how to handle tone and personality. Initially, I thought a single, fixed style would be simpler, but allowing users to switch between tones (humorous, smooth, casual) makes the bot more interactive and user-friendly. It also demonstrates the concept of parameterized AI responses in a tangible way.
 
