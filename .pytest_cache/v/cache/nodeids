@@ -1,0 +1,5 @@
+[
+  "test_rizz.py::test_build_image_blocks",
+  "test_rizz.py::test_build_system_prompt",
+  "test_rizz.py::test_load_image_b64"
+]
